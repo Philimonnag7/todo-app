@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+http packge, provider , nodejs etc...
 
 ## Getting Started
 
